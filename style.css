@@ -119,5 +119,6 @@ img:last-of-type {
 }
 
 #slide4 {
-  background: rgb(19,48,104);
+  background-image: url(images/05.jpg);
+  z-index:2;
 }
